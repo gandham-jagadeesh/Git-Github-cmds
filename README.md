@@ -108,6 +108,8 @@ series of commands that needed to make repos equal locally from upstream repo
 # stash
   make work hold for now all the work we done
   
+ The files must be in staging area
+ 
   git stash : go back to last commit with out loosing all the work we done basically storing them some where with out taking snapshot
   
   git stash pop : get all the details back
